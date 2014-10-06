@@ -1,3 +1,5 @@
 This is the edited file, enjoy!
 
 Sam on Comavis says git is super great.
+Sam on julia says git is awesome.
+
